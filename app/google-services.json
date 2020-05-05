@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "285591508358",
+    "firebase_url": "https://chatapp-russrezepov.firebaseio.com",
+    "project_id": "chatapp-russrezepov",
+    "storage_bucket": "chatapp-russrezepov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285591508358:android:917a5fff31f65805818807",
+        "android_client_info": {
+          "package_name": "com.russrezepov.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285591508358-on0errp12nqan4i2mh8iue0lmc1sqlqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.russrezepov.chatapp",
+            "certificate_hash": "b3fa6f4ce4b62d63151e32c78fbb0006e4e62f00"
+          }
+        },
+        {
+          "client_id": "285591508358-2sjbe2cj71mfedcc9qqb4uki807k6i36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqqrMnwoQYZaCbXGaHI7w4-5h9_41BcVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285591508358-2sjbe2cj71mfedcc9qqb4uki807k6i36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
